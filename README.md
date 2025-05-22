@@ -4,15 +4,21 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2002<br>📚 Currently learning backend development<br>🎯 Goals: Be the best<br>🎲 Fun fact: I can crush you in poker</p>
+<ul>
+<li align="left">✨ Creating bugs since 2002</li>
+<li align="left">📚 Currently learning backend development</li>
+<li align="left">🎯 Goals: Be the best</li>
+<li align="left">🎲 Fun fact: I can crush you in poker</li>
+</ul>
 
 ###
 
 <h2 align="left">🔧 Tech Stack</h2>
-<p align="left">💻 Languages: C#, PHP</p>
-<p align="left">📦 Tools: Unity, Visual Studio, Git, VS Code</p>
-<p align="left">🌀 Asset Creation: Blender, Photoshop
-
+<ul>
+<li align="left">💻 Languages: C#, PHP</li>
+<li align="left">📦 Tools: Unity, Visual Studio, Git, VS Code</li>
+<li align="left">🌀 Asset Creation: Blender, Photoshop</li>
+</ul>
 ###
 
 <h2 align="left">🤝 Let's Collaborate!</h2>
