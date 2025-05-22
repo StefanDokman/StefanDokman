@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-<p align="left">I'm Stefan, a Unity Developer, Energy Drink Enthusiast, and console.log() enjoyer. I hope we can build something awesome together!</p>
+<p align="left">I'm Stefan, a Unity Developer, Energy Drink Enthusiast, and console.log() enjoyer<br> I hope we can build something awesome together!</p>
 <h2 align="left">About me</h2>
 
 ###
