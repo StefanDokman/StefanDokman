@@ -18,6 +18,7 @@
 <li align="left">💻 Languages: C#, PHP</li>
 <li align="left">📦 Tools: Unity, Visual Studio, Git, VS Code</li>
 <li align="left">🌀 Asset Creation: Blender, Photoshop</li>
+<li align="left">🌱 Currently making small scale social netowrk app</li>
 </ul>
 
 <h2 align="left">🤝 Let's Collaborate!</h2>
