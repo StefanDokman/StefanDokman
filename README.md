@@ -5,9 +5,7 @@
 
 <p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning backend development<br>🎯 Goals: be the best<br>🎲 Fun fact: </p>
 
-###
 
-<h2 align="left">I code with</h2>
 
 ###
 
