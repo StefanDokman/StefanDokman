@@ -12,7 +12,7 @@ With my college education providing a strong theoretical foundation in C++ and p
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning backend development<br>🎯 Goals: be the best<br>🎲 Fun fact: </p>
 
 ###
 
