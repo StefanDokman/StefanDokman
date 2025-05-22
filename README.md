@@ -5,7 +5,7 @@
 ###
 
 <ul>
-<li align="left">✨ Creating bugs since 2002</li>
+<li align="left">✨ Creating bugs since 2018</li>
 <li align="left">📚 Currently learning backend development</li>
 <li align="left">🎯 Goals: Be the best</li>
 <li align="left">🎲 Fun fact: I can crush you in poker</li>
