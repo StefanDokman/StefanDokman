@@ -19,7 +19,6 @@
 <li align="left">📦 Tools: Unity, Visual Studio, Git, VS Code</li>
 <li align="left">🌀 Asset Creation: Blender, Photoshop</li>
 </ul>
-###
 
 <h2 align="left">🤝 Let's Collaborate!</h2>
 <p align="left">🎮 If you need help making,debuging or testing your games, feel free to contact me</p>
