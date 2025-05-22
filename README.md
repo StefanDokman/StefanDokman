@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left"Software developer with over 2 years of experience in Unity and a solid foundation in both backend and frontend web development. Experienced with a wide range of tools and technologies, including Unity, C#, PHP, MySQL, and more. Currently focused on expanding my expertise in backend development while also finishing my Bachelor's degree in Computer Engineering, with plans to enroll in a Master's program. 
+
+With my college education providing a strong theoretical foundation in C++ and programming in general, and my hands-on experience with real projects refining my practical skills, I’ve developed a well-rounded and adaptable approach to software development that allows me to navigate a wide range of tasks effectively.</p>
 
 ###
 
