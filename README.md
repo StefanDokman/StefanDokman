@@ -9,10 +9,11 @@
 ###
 
 <h2 align="left">🔧 Tech Stack</h2>
-<p align="left">💻 Languages: JavaScript, TypeScript, HTML, CSS</p>
+<p align="left">💻 Languages: C#, PHP</p>
 <p align="left">📦 Tools: Unity, Visual Studio, Git, VS Code</p>
+<p align="left">🌀 Asset Creation: Blender, Photoshop
 
 ###
 
 <h2 align="left">🤝 Let's Collaborate!</h2>
-<p align="left">🎮 If you need help making,debuging or testing you games, feel free to contact me</p>
+<p align="left">🎮 If you need help making,debuging or testing your games, feel free to contact me</p>
