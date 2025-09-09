@@ -18,8 +18,8 @@
 <li align="left">💻 Languages: C#, PHP</li>
 <li align="left">📦 Tools: Unity, Visual Studio, Git, VS Code</li>
 <li align="left">🌀 Asset Creation: Blender, Photoshop</li>
-<li align="left">🌱 Currently making small scale social netowrk app</li>
+<li align="left">🌱 Currently learning shader development</li>
 </ul>
 
 <h2 align="left">🤝 Let's Collaborate!</h2>
-<p align="left">🎮 If you need help making,debuging or testing your games, feel free to contact me</p>
+<p align="left">🎮 If you need help making, debuging or testing your games, feel free to contact me</p>
