@@ -15,8 +15,8 @@
 
 <h2 align="left">🔧 Tech Stack</h2>
 <ul>
-<li align="left">💻 Languages: C#, PHP</li>
-<li align="left">📦 Tools: Unity, Visual Studio, Git, VS Code</li>
+<li align="left">💻 Languages: C#</li>
+<li align="left">📦 Tools: Unity, Git, VS Code</li>
 <li align="left">🌀 Asset Creation: Blender, Photoshop</li>
 <li align="left">🌱 Currently learning shader development</li>
 </ul>
